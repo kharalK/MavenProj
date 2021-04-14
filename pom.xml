@@ -25,6 +25,23 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+	<dependency>
+  <groupId>org.webjars.bowergithub.jcgueriaud</groupId>
+  <artifactId>google-map</artifactId>
+  <version>2.0.5</version>
+</dependency>
+<dependency>
+  <groupId>io.sariska</groupId>
+  <artifactId>facebook</artifactId>
+  <version>~0.7.0</version>
+  <type>aar</type>
+</dependency>
+<dependency>
+  <groupId>com.yahoo.vespa</groupId>
+  <artifactId>parent</artifactId>
+  <version>7.387.80</version>
+  <type>pom</type>
+</dependency>
   </dependencies>
 
   <build>
